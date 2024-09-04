@@ -1,3 +1,5 @@
+# COMP127 Class Demo Files
+
 ## Introduction
 
 This repository contains a copy of demos performed in leccture for COMP127 Object Oriendted Programming and Abstraction course taugh at Macalester College in Fall 2024.
