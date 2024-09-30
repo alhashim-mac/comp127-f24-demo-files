@@ -1,4 +1,4 @@
-package c0930_interfaces;
+package c1002_interfaces_inheritance;
 
 public class TextMessage implements Readable {
     private String sender;
