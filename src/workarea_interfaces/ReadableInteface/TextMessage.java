@@ -1,4 +1,4 @@
-package workarea_interfaces;
+package workarea_interfaces.ReadableInteface;
 
 public class TextMessage implements Readable {
     private String sender;
