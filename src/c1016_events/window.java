@@ -28,7 +28,7 @@ public class window {
         // canvas.onMouseDown(new MouseButtonEventHandler() {
         //     public void handleEvent (MouseButtonEvent e) {
         //         System.out.println("Mouse down @ " + e.getPosition());
-        //     };
+        //     }
         // });
 
         /* Inner class */
