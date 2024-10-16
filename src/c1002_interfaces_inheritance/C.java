@@ -7,4 +7,10 @@ public class C extends A {
         super(a);
         this.c = c;
     }
+
+    @Override
+    public void printA() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'printA'");
+    }
 }
