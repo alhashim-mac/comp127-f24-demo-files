@@ -1,0 +1,1 @@
+Most of the examples in this package was taken from Chaper 4: Streams ol Modern Java in Action by Urma 2018 (https://www.manning.com/books/modern-java-in-action)
